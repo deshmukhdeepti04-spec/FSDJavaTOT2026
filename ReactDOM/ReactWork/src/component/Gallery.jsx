@@ -3,6 +3,7 @@ import Profile from './Profile'
 
 function Gallery() {
   const student=[{
+    
     pic:"https://tse4.mm.bing.net/th/id/OIP.6l9rCElYlP9EoG0A-iXULgHaDA?pid=Api&P=0&h=180",
     myname:"Deepti",
     doj:"1234",
