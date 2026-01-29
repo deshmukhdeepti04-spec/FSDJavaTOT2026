@@ -32,9 +32,9 @@ function App() {
   };
 
   return (
-    <div className='container' >
+    <div className='container' style={{border:'3px solid black',margin: '50px auto', height:'400px' , width:'500px'}}>
       <div style={{ padding: "20px", maxWidth: "400px", margin: "auto" }}>
-      <h2>Student Registration Form</h2>
+      <h2>Student Registration Form ...</h2>
 
       <form onSubmit={handleSubmit}>
         <input
